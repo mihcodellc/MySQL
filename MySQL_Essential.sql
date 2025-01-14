@@ -1,5 +1,5 @@
-MySQL Essential
-
+-- MySQL Essential
+-- https://github.com/abidmunirmalik/mysql-dba-course/tree/main
 
 -- Long Running Queries with PROCESSLIST
 
